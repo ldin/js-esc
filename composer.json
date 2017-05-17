@@ -1,0 +1,10 @@
+{
+    "require": {
+        "nette/mail": "^2.3"
+    },
+    "config": {
+        "platform": {
+            "php": "5.5"
+        }
+    }
+}
